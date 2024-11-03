@@ -14,7 +14,9 @@ Welcome to my Power BI dashboards repository! 🎉 Here, I’ll be showcasing va
 
 ### 📥 How to Use the Files:
 For interactivity: Download the .pbix file and open it with Power BI Desktop.
+
 For visual reference only: View the .jpg files directly here in GitHub.
+
 Stay tuned for more projects and dashboards across different domains! 🚀
 
 📧 Contact
