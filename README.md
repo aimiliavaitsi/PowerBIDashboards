@@ -8,9 +8,8 @@ Welcome to my Power BI dashboards repository! 🎉 Here, I’ll be showcasing va
 
 📄 Overview: This dashboard provides insights into HR metrics.
 
-📈 Interactivity: Download the .pbix file to explore data filters and interactive elements.
-
-🖼️ Visuals: Check out the .jpg files for a quick view of the main visuals.
+### 2. Sales Dashboard for Gaming Company
+🎮 Overview: A sales dashboard focused on a gaming company's performance, with breakdowns by year, region, platform, and publisher.
 
 ### 📥 How to Use the Files:
 For interactivity: Download the .pbix file and open it with Power BI Desktop.
