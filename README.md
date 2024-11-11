@@ -11,6 +11,10 @@ Welcome to my Power BI dashboards repository! 🎉 Here, I’ll be showcasing va
 ### 2. Sales Dashboard for Gaming Company
 🎮 Overview: A sales dashboard focused on a gaming company's performance, with breakdowns by year, region, platform, and publisher.
 
+### 3. SLA Compliance & Ticket Performance Dashboard
+
+📈 Overview: A comprehensive dashboard that provides insights into SLA compliance and ticket performance. This project involved practicing Power Query to clean and transform data (e.g., splitting columns, adding conditional columns, merging columns), as well as extensive DAX use to create a calendar, dynamic titles and descriptions, and calculated fields. Parameter fields were also incorporated for better data exploration.
+
 ### 📥 How to Use the Files:
 For interactivity: Download the .pbix file and open it with Power BI Desktop.
 
